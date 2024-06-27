@@ -17,8 +17,6 @@ This project is a travel planning application developed in C++ that calculates t
 - **tests/**: Unit tests for validating the algorithm's correctness and performance.
 - **docs/**: Documentation related to the project's design and implementation.
 
-## Getting Started
-
 ### Prerequisites
 
 - C++ compiler (GCC, Clang, etc.)
